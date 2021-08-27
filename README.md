@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Moisés Bruce
-- 👀 Estou interessado em Desenvolvimento de Software
-- 🌱 Atualmente estou aprendendo sobre JavaScript
+- 👨‍💻 Estou interessado em Desenvolvimento de Software
+- 📕 Atualmente estou aprendendo sobre JavaScript
 
  <div>
   <a href="https://github.com/Moises-Bruce">
