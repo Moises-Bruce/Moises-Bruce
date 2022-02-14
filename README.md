@@ -1,11 +1,11 @@
   <h1 align="center" >Olá Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
   <div width="100%">
-    <img src="" alt="code" height="300px" width="100%">
+    <img src="https://bit.ly/3sxYMza" alt="code" height="350px" width="100%">
   </div>
   
-- 👨‍💻 Objetivo: Atuar na área de desenvolvimento de software nas áreas de web/móbile.
-- 📕 Aprendendo React
+## 💡 Sobre mim:
+  
 
  <div> 
    <a href="https://instagram.com/moises.bruce__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank">
