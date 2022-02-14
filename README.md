@@ -1,4 +1,9 @@
-## 👋 Olá, eu sou Moisés Bruce
+  <h1 align="center" >Olá Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <div width="100%">
+    <img src="" alt="code" height="300px" width="100%">
+  </div>
+  
 - 👨‍💻 Objetivo: Atuar na área de desenvolvimento de software nas áreas de web/móbile.
 - 📕 Aprendendo React
 
