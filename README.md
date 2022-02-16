@@ -8,7 +8,10 @@
   
 ## 💡 Sobre mim:
   - *Me chamo Moisés Bruce e sou de Manaus/Amazonas*
+  
   - *Curso Análise e Desenvolvimento de Sistemas* 
+  
+  - *Desenvolvedor focado em Web/Móbile*
  
  <br>
  
