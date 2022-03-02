@@ -1,7 +1,7 @@
   <h1 align="center" >Olá Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
   <div width="100%">
-    <img src="https://bit.ly/3Jv7QMo" alt="code" height="350px" width="100%">
+    <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ff527366c457872fcbe3691d09122ef6ddc2762e&rid=giphy.gif&ct=g" alt="code" height="350px" width="100%">
   </div>
   
   <br>
