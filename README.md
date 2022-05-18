@@ -54,7 +54,7 @@
 
 <div align="left">
   <a href="https://github.com/Ricmaloy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Bruce&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Bruce&layout=compact&langs_count=14&theme=react&hide_border=true"/>
 </div>
   
   <br>
