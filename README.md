@@ -49,15 +49,6 @@
 </div>
   
  <br>
- 
- ### 📈 Estatísticas
-
-<div align="left">
-  <a href="https://github.com/Ricmaloy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Bruce&layout=compact&langs_count=14&theme=react&hide_border=true"/>
-</div>
-  
-  <br>
   
  ![Snake animation](https://github.com/Moises-Bruce/Moises-Bruce/blob/output/github-contribution-grid-snake.svg)
  
