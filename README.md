@@ -1,7 +1,7 @@
-  <h1 align="center" >Olá Dev  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1 align="center" >Olá Dev  👋</h1>
   
   <div>
-    <img src="https://user-images.githubusercontent.com/80919975/157932435-bbe60e61-6b9d-4aed-bda4-328a48ef8371.gif" alt="code" margin-top="20px" align="right" min-width="400px" max-width="400px" width="400px">
+    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="code" margin-top="20px" align="right" min-width="100px" max-width="100px" width="100px">
   </div>
  
   <br>
