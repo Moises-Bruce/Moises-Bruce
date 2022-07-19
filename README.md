@@ -14,6 +14,8 @@
   
   - *Formado como técnico de informática em 2020* 
   
+  -*Cursando Análise e Desenvolvimento de Sistemas*
+  
   - *Programador na Empresa [Atx Tecnologia](http://www.atxsolucoes.com/site/) 💻*
   
   - *Sempre em busca do próximo nível 👨‍💻* 
