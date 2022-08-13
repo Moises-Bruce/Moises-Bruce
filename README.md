@@ -1,7 +1,7 @@
   <h1 align="center" >Olá Dev  👋</h1>
   
   <div>
-    <img src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" alt="code" margin-top="20px" align="right" min-width="100px" max-width="100px" width="100px">
+    <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="code" margin-top="25px" align="right" min-width="360px" max-width="600px" width="360px">
   </div>
  
   <br>
