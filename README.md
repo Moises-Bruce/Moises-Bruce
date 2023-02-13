@@ -1,4 +1,4 @@
-  <h1 align="center" >Olá Dev  👋</h1>
+  <h1 align="center" >Hello Dev  👋</h1>
   
   <div>
     <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="code" margin-top="25px" align="right" min-width="360px" max-width="600px" width="360px">
@@ -6,23 +6,23 @@
  
   <br>
   
-### 💡 Sobre mim: 
+### 💡 About me: 
 
-  - *Me chamo Moisés Bruce e sou de Manaus/Amazonas*
+  - *My name is Moisés Bruce*
   
-  - *Desenvolvedor FullStack focado em Web & Móbile*
+  - *FullStack Developer with focused in Web & Móbile*
   
-  - *Formado como técnico de informática em 2020* 
+  - *Graduated with computer technician in 2020* 
   
-  - *Cursando Análise e Desenvolvimento de Sistemas*
+  - *graduating Analysis and Systems Development*
   
-  - *Programador na Empresa [Atx Tecnologia](http://www.atxsolucoes.com/site/) 💻*
+  - *FullStack Developer at ATX Tecnologia 💻*
   
-  - *Sempre em busca do próximo nível 👨‍💻* 
+  - *Always looking for the next level 👨‍💻* 
  
  <br>
  
-### :rocket: Tecnologias 
+### :rocket: Technology 
  <div style="display: inline_block"><br>
  
   <img align="center"  height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -42,7 +42,7 @@
 </div>
   <br>
   
-### 📈 Estatísticas
+### 📈 Statistics
 
 <div align="left">
   <a href="https://github.com/Moises-Bruce">
