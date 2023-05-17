@@ -16,8 +16,6 @@
   
   - *graduating Analysis and Systems Development*
   
-  - *FullStack Developer at ATX Tecnologia 💻*
-  
   - *Always looking for the next level 👨‍💻* 
  
  <br>
